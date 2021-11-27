@@ -3,3 +3,4 @@ venv
 src/debug
 src/__pycache__
 .idea
+examples
